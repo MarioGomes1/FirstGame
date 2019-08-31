@@ -1,0 +1,13 @@
+C:\Users\mario\source\repos\FirstGame\bin\Debug\FirstGame.exe.config
+C:\Users\mario\source\repos\FirstGame\bin\Debug\FirstGame.exe
+C:\Users\mario\source\repos\FirstGame\bin\Debug\FirstGame.pdb
+C:\Users\mario\source\repos\FirstGame\bin\Debug\Engine.dll
+C:\Users\mario\source\repos\FirstGame\bin\Debug\Engine.pdb
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.Properties.Resources.resources
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.csproj.CopyComplete
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.exe
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.pdb
+C:\Users\mario\source\repos\FirstGame\obj\Debug\FirstGame.SuperAdventure.resources
